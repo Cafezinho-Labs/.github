@@ -1,12 +1,10 @@
 <div align="center">
 
-  <img src="logo_cafezinho.jpg" alt="TechLPDB Logo" width="120" style="border-radius: 50%;">
-
   # ☕ Cafezinho Labs
 
   *Fueling games and experimental code with way too much coffee.*
 
-  [![GitHub Followers](https://img.shields.io/github/followers/CafezinhoLabs?style=social)](https://github.com/CafezinhoLabs)
+  [![GitHub Followers](https://img.shields.io/github/followers/CafezinhoLabs?style=social)](https://github.com/Cafezinho-Labs)
   [![Organization Status](https://img.shields.io/badge/Status-Active%20Building-orange?style=flat-square)](#)
   [![Location](https://img.shields.io/badge/Base-Brazil-green?style=flat-square)](#)
 
