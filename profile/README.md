@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/2286134-cafe-papel-xicara-apartamento-isolado-eps10-vetor.jpg" alt="Cafezinho Labs Logo" width="180" />
+  <img src="logo_cafezinho.jpg" alt="TechLPDB Logo" width="120" style="border-radius: 50%;">
 
   # ☕ Cafezinho Labs
 
