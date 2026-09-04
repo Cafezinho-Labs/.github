@@ -27,7 +27,7 @@ Whether it's an indie game build, a custom tool, or a chaotic prototype, we buil
 
 Meet the minds behind the caffeine overload:
 
-| Member | Focus / Role | GitHub Profile |
+| Member | GitHub Profile |
 | :--- | :--- |
 | **Dono** | [@lucank1](https://github.com/lucasnk1) |
 
